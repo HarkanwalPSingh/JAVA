@@ -1,0 +1,4 @@
+[main] ERROR com.cg.payroll.services.PayrollServicesImpl  - ORA-00942: table or view does not exist
+ null 942
+[main] ERROR com.cg.payroll.services.PayrollServicesImpl  - ORA-00942: table or view does not exist
+ null 942
